@@ -11,7 +11,7 @@ public class Math {
 			throw new IllegalArgumentException();
 		}
 		else{	
-		return 1;
+		return 2;
 		}
 		
 	}
